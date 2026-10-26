@@ -19,7 +19,7 @@
 
 function greet(name) {
   // Write your code here
-alert("Hello, " + name + "!");
+return "Hello, " + name + "!";
 };
 
 
